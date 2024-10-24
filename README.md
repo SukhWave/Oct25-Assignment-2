@@ -2,11 +2,11 @@
 
 Second assignment for VCC
 
-##Enhanced User Authentication
+## Enhanced User Authentication
 -Two-factor authentication (2FA)
 -Biometric login options
 
-##Machine Learning Integration
+## Machine Learning Integration
 -Personalized recommendations
 -Predictive analytics
 ##Offline Mode
