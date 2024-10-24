@@ -2,6 +2,8 @@
 
 Second assignment for VCC
 
+# List of future features 
+
 ## Enhanced User Authentication
 - Two-factor authentication (2FA)
 - Biometric login options
@@ -21,3 +23,4 @@ Second assignment for VCC
 ## Advanced Search Filters
 - Filters for specific attributes
 - Saved searches and history
+  
